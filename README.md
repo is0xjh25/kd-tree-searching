@@ -46,8 +46,8 @@ map1 datafile outputfile < queryfile\
 and\
 map2 datafile outputfile < queryfile
 
-### Output
-#### _records in output.txt_\
+### Example Output
+#### _records in output.txt_
 144.967058 -37.817313 0.0005 −−>Census year: 2018 || Block ID: 15 || Property ID: 109260 ||\
 Base property ID: 109260 || CLUE small area: Melbourne (CBD) || Trading Name: Hungry Jack’s Pty Ltd ||\
 Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants ||\
@@ -57,7 +57,7 @@ Base property ID: 109258 || CLUE small area: Melbourne (CBD) || Trading Name: Mc
 Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants ||\
 x coordinate: 144.9669 || y coordinate: -37.8172 || Location: (-37.81724484, 144.9669126) ||
 
-#### _stdout_\
+#### _stdout_
 144.967058 -37.817313 0.0005 −− > 678\
 144.963089 -37.799092 0.0005 −− > 1356
 
