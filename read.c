@@ -36,7 +36,7 @@ char* readOutputFileName(char **argv) {
 
 FILE* openDataFile(char *dataFileName) {
 
-	FILE *dataFile = fopen(dataFileName, "r");;
+	FILE *dataFile = fopen(dataFileName, "r");
 
 	if (!dataFile) {
 		printf("OPEN DataFile Error!");
