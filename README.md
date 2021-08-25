@@ -39,7 +39,29 @@ Tables and/or graphs are recommended for presenting nu- meric results. You may f
 In either case, you should state what you expected from the theory, and if there is a discrepancy you should suggest possible reasons.
 
 _Report please see [Experimentation of K-D Tree map search](https://github.com/is0xjh25/kd-tree-searching/blob/main/1074004-Experimentation.pdf)_
-***
+
+---
+### Command Line
+map1 datafile outputfile < queryfile\
+and\
+map2 datafile outputfile < queryfile\
+
+### Output
+_records in output.txt_\
+144.967058 -37.817313 0.0005 −−>Census year: 2018 || Block ID: 15 || Property ID: 109260 ||\
+Base property ID: 109260 || CLUE small area: Melbourne (CBD) || Trading Name: Hungry Jack’s Pty Ltd ||\
+Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants ||\
+x coordinate: 144.9668 || y coordinate: -37.8171 || Location: (-37.81711586, 144.9668418) ||\
+144.967058 -37.817313 0.0005 −−>Census year: 2018 || Block ID: 15 || Property ID: 109258 ||\
+Base property ID: 109258 || CLUE small area: Melbourne (CBD) || Trading Name: McDonalds ||\
+Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants ||\
+x coordinate: 144.9669 || y coordinate: -37.8172 || Location: (-37.81724484, 144.9669126) ||
+
+_stdout_\
+144.967058 -37.817313 0.0005 −− > 678\
+144.963089 -37.799092 0.0005 −− > 1356
+
+---
 _more details in project specification!_
 
 
