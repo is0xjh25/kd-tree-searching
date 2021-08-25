@@ -51,7 +51,8 @@ map2 datafile outputfile < queryfile
 144.967058 -37.817313 0.0005 −−>Census year: 2018 || Block ID: 15 || Property ID: 109260 ||\
 Base property ID: 109260 || CLUE small area: Melbourne (CBD) || Trading Name: Hungry Jack’s Pty Ltd ||\
 Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants ||\
-x coordinate: 144.9668 || y coordinate: -37.8171 || Location: (-37.81711586, 144.9668418) ||\
+x coordinate: 144.9668 || y coordinate: -37.8171 || Location: (-37.81711586, 144.9668418) ||
+
 144.967058 -37.817313 0.0005 −−>Census year: 2018 || Block ID: 15 || Property ID: 109258 ||\
 Base property ID: 109258 || CLUE small area: Melbourne (CBD) || Trading Name: McDonalds ||\
 Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants ||\
