@@ -42,9 +42,9 @@ _Report please see [Experimentation of K-D Tree map search](https://github.com/i
 
 ---
 ### Command Line
-map1 datafile outputfile < queryfile\
-and\
-map2 datafile outputfile < queryfile
+`map1 datafile outputfile < queryfile\`
+&\
+`map2 datafile outputfile < queryfile`
 
 ### Example Output
 #### _records in output.txt_
