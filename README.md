@@ -63,6 +63,6 @@ x coordinate: 144.9669 || y coordinate: -37.8172 || Location: (-37.81724484, 144
 144.963089 -37.799092 0.0005 −− > 1356
 
 ---
-_more details in [project specification](https://github.com/is0xjh25/kd-tree-searching/blob/main/assignment2.pdf)._
+*_more details in [project specification](https://github.com/is0xjh25/kd-tree-searching/blob/main/assignment2.pdf)._
 
 
